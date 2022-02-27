@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @zVerox
+- 🌱 I’m currently learning PHP
+- 📫 How to reach me: info@zverox.cloud
