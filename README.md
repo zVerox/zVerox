@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @zVerox
 - 🌱 I’m currently learning C#
-- 📫 How to reach me: info@zverox.cloud
+- 📫 How to reach me: zverox0@gmail.com
